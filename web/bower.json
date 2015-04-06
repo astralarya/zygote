@@ -1,0 +1,25 @@
+{
+  "name": "zygote",
+  "version": "0.0.0",
+  "homepage": "https://github.com/autochthe/zygote",
+  "authors": [
+    "Mara Kim <hacker.root@gmail.com>"
+  ],
+  "description": "Web project seed",
+  "main": "index.html",
+  "keywords": [
+    "foundation"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "zurb/bower-foundation#~5.5.1"
+  }
+}
